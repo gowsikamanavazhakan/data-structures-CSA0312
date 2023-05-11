@@ -75,3 +75,19 @@ int main()
     printArray(arr, arr_size);
     return 0;
 }
+
+
+OUTPUT:
+	
+	Given array is
+12 11 13 5 6 7
+
+Sorted array is
+5 6 7 11 12 13
+
+--------------------------------
+Process exited after 0.03408 seconds with return value 0
+Press any key to continue . . .
+
+
+
